@@ -14,7 +14,7 @@ Backend Engineer specialized in **Java (Spring Boot)** and **PostgreSQL**. Focus
 * **CEIT Voting System (Contract):** Built a secure, fraud-resistant voting engine using Spring Boot 3.2 and Java 21. Achieved 100% vote integrity and handled high concurrent traffic.
 
 ### Credentials
-* **B.E. in Computer Engineering & IT** — TU Kyaukse (2024-2028)
+* **B.E. in Computer Engineering** — TU Kyaukse (2024-2028)
 ---
 <div align="center">
   <sub>Stay focused. Build scalable.</sub>
