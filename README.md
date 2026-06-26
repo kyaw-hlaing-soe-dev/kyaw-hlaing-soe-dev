@@ -1,4 +1,4 @@
-# Hi, I'm Kyaw Hlaing Soe 👋
+# Hi, I'm Kyaw Hlaing Soe
 **Backend Software Engineer** | Specialized in Java, Spring Boot, and Robust Ecosystems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kyaw-hlaing-soe) 
@@ -29,19 +29,12 @@ I am a Computer Engineering student and Freelance Full-Stack Developer focused o
 * **Zero-Error Automation:** Digitized university elections, eliminating **100% of manual processing errors** through real-time DB synchronization.
 * **Leadership:** Led "Team 404" through the full SDLC and reduced team bug density by 25% via technical mentorship.
 
-#### 🌱 Dr. Plant (Climate-Resilient Agriculture Hackathon 2026) | **FastAPI, TensorFlow, React Native**
-* **High-Accuracy ML:** Built a FastAPI backend serving a TensorFlow CNN that detects crop diseases with **99.91% accuracy**.
-* **Context-Aware AI:** Integrated real-time weather data APIs to deliver dynamic, localized agricultural advice to farmers.
-
 ---
 
 ### 🎓 Education & Credentials
 * **B.E. in Computer Engineering & IT (Minor in AI)** — Technological University (Kyaukse) | *2024 — 2028*
-* **CS50x: Introduction to Computer Science** — Harvard University
-* **CS50🎖️: Introduction to Databases with SQL** — Harvard University
-
 ---
 
 <div align="center">
-  <sub>⚡ Stay focused. Build scalable. Powered by Java & Caffeine. ☕</sub>
+  <sub>⚡ Stay focused. Build scalable.</sub>
 </div>
