@@ -1,21 +1,47 @@
-# Kyaw Hlaing Soe
-**Backend Software Engineer** | `kyawhlaingsoe.dev@gmail.com` | [LinkedIn](https://linkedin.com/in/kyaw-hlaing-soe)
+# Hi, I'm Kyaw Hlaing Soe 👋
+**Backend Software Engineer** | Specialized in Java, Spring Boot, and Robust Ecosystems.
 
-### Summary
-Backend Engineer specialized in **Java (Spring Boot)** and **PostgreSQL**. Focused on architecting secure, high-concurrency systems and optimizing database performance.
-
-### Technical Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kyaw-hlaing-soe) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kyawhlaingsoe.dev@gmail.com)
 
 ---
 
-### Key Experience & Projects
-* **Team 404 (Lead Developer):** Directed full SDLC for departmental software; implemented modular backend architecture and reduced team bug density by 25%.
-* **CEIT Voting System (Contract):** Built a secure, fraud-resistant voting engine using Spring Boot and Java. Achieved 100% vote integrity and handled high concurrent traffic.
+### 🚀 About Me
+I am a Computer Engineering student and Freelance Full-Stack Developer focused on building high-performance, secure, and scalable backend solutions. I enjoy solving architectural challenges, from ensuring 100% data integrity in voting systems to engineering fast AI inference pipelines.
 
-### Credentials
-* **B.E. in Computer Engineering** — TU Kyaukse
 ---
+
+### 🛠️ Technical Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Java, Python, SQL, JavaScript, C |
+| **Backend & Databases** | Spring Boot, FastAPI, PostgreSQL |
+| **Frontend & Mobile** | React, React Native, HTML5, CSS3 |
+| **Tools & DevOps** | Git, GitHub, TensorFlow |
+
+---
+
+### 📈 Real-World Impact & Projects
+
+#### 🔐 CEIT Department Voting System | **Java, Spring Boot, PostgreSQL**
+* **Security First:** Engineered a multi-layer fraud-prevention engine (device fingerprinting, PIN auth, and IP tracking) ensuring **100% vote integrity**.
+* **Zero-Error Automation:** Digitized university elections, eliminating **100% of manual processing errors** through real-time DB synchronization.
+* **Leadership:** Led "Team 404" through the full SDLC and reduced team bug density by 25% via technical mentorship.
+
+#### 🌱 Dr. Plant (Climate-Resilient Agriculture Hackathon 2026) | **FastAPI, TensorFlow, React Native**
+* **High-Accuracy ML:** Built a FastAPI backend serving a TensorFlow CNN that detects crop diseases with **99.91% accuracy**.
+* **Context-Aware AI:** Integrated real-time weather data APIs to deliver dynamic, localized agricultural advice to farmers.
+
+---
+
+### 🎓 Education & Credentials
+* **B.E. in Computer Engineering & IT (Minor in AI)** — Technological University (Kyaukse) | *2024 — 2028*
+* **CS50x: Introduction to Computer Science** — Harvard University
+* **CS50🎖️: Introduction to Databases with SQL** — Harvard University
+
+---
+
 <div align="center">
-  <sub>Stay focused. Build scalable.</sub>
+  <sub>⚡ Stay focused. Build scalable. Powered by Java & Caffeine. ☕</sub>
 </div>
