@@ -18,7 +18,7 @@ I am a Computer Engineering student and Freelance Full-Stack Developer focused o
 | **Languages** | Java, Python, SQL, JavaScript, C |
 | **Backend & Databases** | Spring Boot, FastAPI, PostgreSQL |
 | **Frontend & Mobile** | React, React Native, HTML5, CSS3 |
-| **Tools & DevOps** | Git, GitHub, TensorFlow |
+| **Tools & DevOps** | Git, GitHub |
 
 ---
 
