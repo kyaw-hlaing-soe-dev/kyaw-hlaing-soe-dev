@@ -7,12 +7,9 @@
 ---
 
 ### 🚀 About Me
-I am a Computer Engineering student and Freelance Full-Stack Developer focused on building high-performance, secure, and scalable backend solutions. I enjoy solving architectural challenges, from ensuring 100% data integrity in voting systems to engineering fast AI inference pipelines.
-
+I am a Computer Engineering student and Freelance Full-Stack Developer focused on building high-performance, secure, and scalable backend solutions.
 
 ---
-
-
 
 ### 🎓 Education & Credentials
 * **B.E. in Computer Engineering & IT (Minor in AI)** — Technological University (Kyaukse) | *2024 — 2028*
