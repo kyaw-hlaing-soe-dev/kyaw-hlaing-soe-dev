@@ -11,10 +11,6 @@ I am a Computer Engineering student and Freelance Full-Stack Developer focused o
 
 ---
 
-### 🎓 Education & Credentials
-* **B.E. in Computer Engineering & IT (Minor in AI)** — Technological University (Kyaukse) | *2024 — 2028*
----
-
 <div align="center">
   <sub>⚡ Stay focused. Build scalable.</sub>
 </div>
