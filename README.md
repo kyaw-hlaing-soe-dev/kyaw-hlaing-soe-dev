@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 I am a Computer Engineering student and Freelance Full-Stack Developer focused on building high-performance, secure, and scalable backend solutions.
-Currently internship at MIT.
+Currently software development internship at MIT.
 
 ---
 
